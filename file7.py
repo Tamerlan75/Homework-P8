@@ -16,7 +16,7 @@
              
         
 # def exp():
-#     with open("C:\Users\samsung\Desktop\Python\Workfile\text.txt", "a", encoding = "utf-8") as file:
+#     with open("C:\Users\samsung\Desktop\Python\Workfile\text.txt", "r", encoding = "utf-8") as file:
 #         surename = input("Введите фамилию: ")
 #         list1 = file.read().splitlines()
 #         for i in range(len(list1)):
